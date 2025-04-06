@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Agithubrepos\\ConfectioneryManagerADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03AD1E37-648F-4E38-A882-59DB54E6C499}|bmim2214_lab2.csproj|c:\\agithubrepos\\confectionerymanagerado\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AD1E37-648F-4E38-A882-59DB54E6C499}|bmim2214_lab2.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AD1E37-648F-4E38-A882-59DB54E6C499}|bmim2214_lab2.csproj|c:\\agithubrepos\\confectionerymanagerado\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03AD1E37-648F-4E38-A882-59DB54E6C499}|bmim2214_lab2.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AD1E37-648F-4E38-A882-59DB54E6C499}|bmim2214_lab2.csproj|c:\\agithubrepos\\confectionerymanagerado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AD1E37-648F-4E38-A882-59DB54E6C499}|bmim2214_lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AD1E37-648F-4E38-A882-59DB54E6C499}|bmim2214_lab2.csproj|c:\\agithubrepos\\confectionerymanagerado\\helyszinekdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AD1E37-648F-4E38-A882-59DB54E6C499}|bmim2214_lab2.csproj|solutionrelative:helyszinekdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AD1E37-648F-4E38-A882-59DB54E6C499}|bmim2214_lab2.csproj|c:\\agithubrepos\\confectionerymanagerado\\dalgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AD1E37-648F-4E38-A882-59DB54E6C499}|bmim2214_lab2.csproj|solutionrelative:dalgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AD1E37-648F-4E38-A882-59DB54E6C499}|bmim2214_lab2.csproj|c:\\agithubrepos\\confectionerymanagerado\\cukraszdadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AD1E37-648F-4E38-A882-59DB54E6C499}|bmim2214_lab2.csproj|solutionrelative:cukraszdadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Agithubrepos\\ConfectioneryManagerADO\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Form3.Designer.cs",
+              "ToolTip": "C:\\Agithubrepos\\ConfectioneryManagerADO\\Form3.Designer.cs",
+              "RelativeToolTip": "Form3.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:01:24.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Agithubrepos\\ConfectioneryManagerADO\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Agithubrepos\\ConfectioneryManagerADO\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:01:21.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Agithubrepos\\ConfectioneryManagerADO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Agithubrepos\\ConfectioneryManagerADO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:01:15.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelyszinekDAL.cs",
+              "DocumentMoniker": "C:\\Agithubrepos\\ConfectioneryManagerADO\\HelyszinekDAL.cs",
+              "RelativeDocumentMoniker": "HelyszinekDAL.cs",
+              "ToolTip": "C:\\Agithubrepos\\ConfectioneryManagerADO\\HelyszinekDAL.cs",
+              "RelativeToolTip": "HelyszinekDAL.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwD0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:01:10.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DALGen.cs",
+              "DocumentMoniker": "C:\\Agithubrepos\\ConfectioneryManagerADO\\DALGen.cs",
+              "RelativeDocumentMoniker": "DALGen.cs",
+              "ToolTip": "C:\\Agithubrepos\\ConfectioneryManagerADO\\DALGen.cs",
+              "RelativeToolTip": "DALGen.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAUwJUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:00:58.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CukraszdaDAL.cs",
+              "DocumentMoniker": "C:\\Agithubrepos\\ConfectioneryManagerADO\\CukraszdaDAL.cs",
+              "RelativeDocumentMoniker": "CukraszdaDAL.cs",
+              "ToolTip": "C:\\Agithubrepos\\ConfectioneryManagerADO\\CukraszdaDAL.cs",
+              "RelativeToolTip": "CukraszdaDAL.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAQwLUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:00:34.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

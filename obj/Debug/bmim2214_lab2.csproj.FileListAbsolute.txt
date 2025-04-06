@@ -1,0 +1,13 @@
+C:\Agithubrepos\bmim2214_lab5\bin\Debug\bmim2214_lab2.exe.config
+C:\Agithubrepos\bmim2214_lab5\bin\Debug\bmim2214_lab2.exe
+C:\Agithubrepos\bmim2214_lab5\bin\Debug\bmim2214_lab2.pdb
+C:\Agithubrepos\bmim2214_lab5\obj\Debug\bmim2214_lab2.csproj.AssemblyReference.cache
+C:\Agithubrepos\bmim2214_lab5\obj\Debug\bmim2214_lab2.ErrorForm.resources
+C:\Agithubrepos\bmim2214_lab5\obj\Debug\bmim2214_lab2.FillForm.resources
+C:\Agithubrepos\bmim2214_lab5\obj\Debug\bmim2214_lab2.FillForm2.resources
+C:\Agithubrepos\bmim2214_lab5\obj\Debug\bmim2214_lab2.FillForm3.resources
+C:\Agithubrepos\bmim2214_lab5\obj\Debug\bmim2214_lab2.Properties.Resources.resources
+C:\Agithubrepos\bmim2214_lab5\obj\Debug\bmim2214_lab2.csproj.GenerateResource.cache
+C:\Agithubrepos\bmim2214_lab5\obj\Debug\bmim2214_lab2.csproj.CoreCompileInputs.cache
+C:\Agithubrepos\bmim2214_lab5\obj\Debug\bmim2214_lab2.exe
+C:\Agithubrepos\bmim2214_lab5\obj\Debug\bmim2214_lab2.pdb
